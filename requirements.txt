@@ -1,0 +1,4 @@
+loguru
+websockets
+websockets-proxy
+fake_useragent
